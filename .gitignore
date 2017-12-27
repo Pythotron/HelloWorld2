@@ -76,8 +76,11 @@ libeay64.dll
 
 # Lazarus-related changes
 *.lps
-backup/
 lib/
+
+#Lazarus backup files
+*.bak
+backup/
 
 ## Development miner batch file
 Run*.bat
